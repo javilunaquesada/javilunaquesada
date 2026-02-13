@@ -13,7 +13,7 @@ I enjoy building structured, end-to-end projects where clean validation, model c
 - Git & modular project architecture
 - Statistical modeling and analytical problem solving
 
-## 🚀 What You’ll Find Here
+## What You’ll Find Here
 Most of my repositories focus on:
 - End-to-end machine learning pipelines
 - Careful feature engineering
@@ -22,7 +22,7 @@ Most of my repositories focus on:
 - Clean project structure (src/, notebooks/, reproducibility)
 
 One of my recent projects explores ATP tennis match prediction using logistic regression and neural networks, including player embeddings and representation analysis.
-I care about understanding why a model works — or why it fails — not just achieving a metric.
+I care about understanding why a model works or why it fails, not just achieving a metric without meaning.
 
 ## 💡 How I Think About Machine Learning
 I believe:
@@ -31,11 +31,11 @@ I believe:
 - Simplicity is underrated.
 - Reproducibility and structure matter as much as performance.
 
-My background in Mathematics and Physics shapes the way I approach problems: analytical, structured, and hypothesis-driven.
+My background in Mathematics and Physics shapes the way I approach problems: analytical, structured, and hypothesis-driven. I also like to comprehend the fundamentals behind the algorithms or techniques I implement, rather than just focusing on the results.
 
-## 👨‍💻 Professional Background
+## Professional Background
 Technology Consultant at T-Systems (BMW–NVIDIA project)
-Experience working in Agile environments, translating business requirements into technical implementations and data-driven insights.
+I have experience working in Agile environments, translating business requirements into technical implementations and data-driven insights.
 
 ## 🎯 Currently Interested In
 - Data Analyst / Data Scientist roles
