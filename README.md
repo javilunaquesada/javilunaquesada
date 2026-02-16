@@ -1,6 +1,6 @@
 # Hi, I'm Javier 👋
 
-Mathematics & Physics graduate with 2.5+ years in technology consulting.
+Mathematics & Physics graduate with 3 years in technology consulting.
 Currently focused on Data Analytics and Machine Learning.
 
 I enjoy building structured, end-to-end projects where clean validation, model comparison, and generalization matter more than complexity.
